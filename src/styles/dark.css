@@ -1,0 +1,33 @@
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
+body.dark-mode .header {
+  background-color: black;
+  color: white;
+}
+body.dark-mode .filter-box {
+  color: black;
+}
+body.dark-mode .region {
+  color: black;
+}
+body.dark-mode .container {
+  background-color: #5f6368c4;
+}
+body.dark-mode .card {
+  color: black;
+  border: 1px solid white;
+}
+body.dark-mode .modal {
+  background-color: black;
+}
+body.dark-mode .text {
+  color: black;
+}
+body.dark-mode .desc {
+  color: black;
+}
+body.dark-mode .textm {
+  color: white;
+}

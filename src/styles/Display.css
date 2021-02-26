@@ -1,0 +1,9 @@
+.displayArea {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 70px;
+  justify-content: space-evenly;
+  width: 90%;
+  margin: auto;
+}

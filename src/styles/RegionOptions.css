@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+  padding-top: 0px;
+  padding-left: 15px;
+  line-height: 30px;
+}
+
+.filter-box {
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 30px;
+  background-color: white;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  width: 150px;
+  justify-content: space-between;
+
+  margin-bottom: 50px;
+}
+.region {
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: fixed;
+  top: 190px;
+  right: 115px;
+  width: 180px;
+  border-radius: 5px;
+  background-color: white;
+}

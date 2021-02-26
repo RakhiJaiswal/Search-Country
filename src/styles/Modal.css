@@ -1,0 +1,30 @@
+.modal {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  padding-top: 30px;
+  padding-left: 50px;
+  line-height: 30px;
+}
+.img-modal {
+  height: 300px;
+  width: 300px;
+}
+.close-btn {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 12px 30px 12px 30px;
+  margin-bottom: 40px;
+}
+b {
+  font-weight: 500;
+}
+.textm {
+  color: rgb(67, 64, 64);
+}
